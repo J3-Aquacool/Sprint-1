@@ -11,7 +11,7 @@ public class App
 {
     public static void main( String[] args )
     {
-    	 System.out.println("hello in Main");
+    	 System.out.println("Welcome All");
     	    User u=new User("java","jags");
     	    
     	    IUserDaoImpl ud=new IUserDaoImpl();
